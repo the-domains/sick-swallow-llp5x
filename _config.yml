@@ -6,9 +6,13 @@ color:
   saturation: 0.7134183596353978
   rhythmicContrast: 0.943070640321821
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
 name: Sick Swallow
+navigation:
+  - name: Auctionsfind
+    url: 'http://www.auctionsfind.com/main'
+    type: external
