@@ -1,4 +1,3 @@
-layout_spectrum: 0.10960364411585033
 typography_spectrum: 0.975074807414785
 color:
   brandStrength: 0.4906522915698588
@@ -11,8 +10,10 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+layout_spectrum: 0.10960364411585033
 name: Sick Swallow
 navigation:
   - name: Auctionsfind
     url: 'http://www.auctionsfind.com/main'
     type: external
+title: A way to the Park
