@@ -16,5 +16,8 @@ navigation:
   - name: Auctionsfind
     url: 'http://www.auctionsfind.com/main'
     type: external
+  - name: Google May Have Found a Way to Make the Real-World Web Work
+    id: eb2ce4bf-4369-4a2d-8385-eb68196ddb25
+    type: content
 title: A Way to the Park
 description: Just Sit Back and Watch
